@@ -5,7 +5,5 @@ Testing-1
   ^111
   ^222
  *bbb
--aaabbb
 -acacac
- *ccc
--adadad
+ ^ccc
